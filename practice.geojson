@@ -4,7 +4,7 @@
            "type": "Feature",
            "geometry": {
                "type": "Point",
-               "coordinates": [39.093944, 39.201639]
+               "coordinates": [-77.093944, 39.201639]
            },
            "properties": {
                "prop0": "value0"
